@@ -103,6 +103,10 @@ The current implementation represents an MVP and can be extended further.
 ## 👥 Team
 
 Built collaboratively with clear separation of frontend and backend responsibilities.
+Anshul Halkarni
+Rutuja Chopade
+Rania Jamadar
+Ayush T
 
 ---
 
